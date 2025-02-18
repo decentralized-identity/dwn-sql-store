@@ -45,7 +45,7 @@
     "chai-as-promised": "7.1.1",
     "esbuild": "^0.19.3",
     "eslint": "8.42.0",
-    "mocha": "10.2.0",
+    "mocha": "10.8.2",
     "mysql2": "3.9.8",
     "pg": "8.11.1",
     "pg-cursor": "2.10.1",
